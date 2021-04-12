@@ -1,0 +1,10 @@
+export { AdidasIcon } from "./AdidasIcon";
+export { AsicsIcon } from "./AsicsIcon";
+export { EspnIcon } from "./EspnIcon";
+export { FilaIcon } from "./FilaIcon";
+export { NikeIcon } from "./NikeIcon";
+export { ObeyIcon } from "./ObeyIcon";
+export { PumaIcon } from "./PumaIcon";
+export { ReebokIcon } from "./ReebokIcon";
+export { RukkaIcon } from "./RukkaIcon";
+export { UnderArmourIcon } from "./UnderArmourIcon";

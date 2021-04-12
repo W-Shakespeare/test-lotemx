@@ -1,0 +1,19 @@
+input {
+  outline: none;
+}
+.search {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .searchIcon {
+    padding-right: 7px;
+  }
+  input {
+    width: 40%;
+    border: unset !important;
+    &::placeholder {
+      color: rgba(128, 128, 128, 0.432);
+    }
+  }
+}
